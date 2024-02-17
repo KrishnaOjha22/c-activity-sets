@@ -11,7 +11,7 @@ int input_n()
 int sum_n_nos(int n)
 {
     int sum=0;
-    for (int i=1; i<=n; i++)
+    for (int i=1;i<=n; i++)
     {
         sum+=i;
     }
@@ -25,5 +25,6 @@ int main()
 {
     int num = input_n();
     int sum = sum_n_nos(num);
+    output(num,sum);
     return 0;
 }
