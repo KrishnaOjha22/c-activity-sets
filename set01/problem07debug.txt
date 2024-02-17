@@ -1,0 +1,25 @@
+GNU gdb (GDB) 7.6.1                                                                                                                     
+Copyright (C) 2013 Free Software Foundation, Inc.                                                                                       
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "mingw32".
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>...
+Reading symbols from C:\Users\krishna ojha\Desktop\PSC\c-activity-sets\set01\a.exe...done.
+(gdb) r
+Starting program: C:\Users\krishna ojha\Desktop\PSC\c-activity-sets\set01/a.exe
+[New Thread 6804.0x1da4]
+[New Thread 6804.0x624c]
+enter a value of number:1
+the sum of natural numbers up to 1 is :1
+[Inferior 1 (process 6804) exited normally]
+(gdb) r
+Starting program: C:\Users\krishna ojha\Desktop\PSC\c-activity-sets\set01/a.exe
+[New Thread 20000.0x6c84]
+[New Thread 20000.0x5274]
+enter a value of number:3
+the sum of natural numbers up to 3 is :6
+[Inferior 1 (process 20000) exited normally]
+(gdb) q
