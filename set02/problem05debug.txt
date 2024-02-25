@@ -1,0 +1,18 @@
+GNU gdb (GDB) 7.6.1
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "mingw32".
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>...
+Reading symbols from C:\Users\krishna ojha\Desktop\PSC\c-activity-sets\set02\a.exe...done.
+(gdb) r
+Starting program: C:\Users\krishna ojha\Desktop\PSC\c-activity-sets\set02/a.exe
+[New Thread 17348.0x23c8]
+[New Thread 17348.0x2878]
+Please enter a number12
+Please enter a number16
+The hcf of a 12 and b 16 is 4[Inferior 1 (process 17348) exited normally]
+(gdb)
